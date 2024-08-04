@@ -48,6 +48,7 @@
 - 📫 How to reach me **parth9512158@gmail.com**
 
 - ⚡ Fun fact **I Think iam Jugadu Type**
+- <b>Portfolio Link</b> : https://parysharma.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
