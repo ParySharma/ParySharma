@@ -113,7 +113,18 @@
   </tr>
 </table>
 <br>
-<hr>
+<div style="clear: both;"></div>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=atologistparth&show_icons=true&locale=en" alt="atologistparth's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=atologistparth&" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 <h3>Connect with me:</h3>
 <table align="left">
   <tr>
@@ -128,17 +139,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
       </a>
       <br>Instagram
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=atologistparth&show_icons=true&locale=en" alt="atologistparth's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=atologistparth&" alt="GitHub Streak Stats" />
     </td>
   </tr>
 </table>
