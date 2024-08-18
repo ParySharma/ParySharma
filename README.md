@@ -34,27 +34,23 @@
     <p>Beyond coding, I'm an avid gamer 🎮, anime enthusiast 🍜, and video creator 🎥.</p>
     <p>Let's collaborate and bring your web projects to life! 🚀</p>
 </section>
-🔭 I’m currently working on
-PreventionCloud
-📫 How to reach me
-parth9512158@gmail.com
+<p>🔭 I’m currently working on PreventionCloud</p>
+<p>📫 How to reach me: parth9512158@gmail.com</p>
+<p>⚡ Fun fact: I Think I am Jugadu Type</p>
 
-⚡ Fun fact
-I Think I am Jugadu Type
+<p>🌐 Portfolio: <a href="https://parysharma.netlify.app/" target="_blank">parysharma.netlify.app</a></p>
 
-🌐 Portfolio
-https://parysharma.netlify.app/
-
-Connect with me:
+<h3>Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/parth-sharma-a9a77b1b0" target="blank">
+    <a href="https://www.linkedin.com/in/parth-sharma-a9a77b1b0" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/_.parysharma" target="blank">
+    <a href="https://instagram.com/_.parysharma" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
-Languages and Tools:
+
+<h3>Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -87,13 +83,14 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
     </a>
 </p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=atologistparth&show_icons=true&locale=en" alt="atologistparth's GitHub Stats"/>
-</p>
-<p align="center">
-    <img src="https://i.gifer.com/origin/1d/1dc2e92177c43cac5bd2f59de5381a15_w200.gif" width="25%" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=atologistparth&" alt="GitHub Streak Stats"/>
-</p>
+
+<div style="display: flex; justify-content: space-between;">
+    <p>
+        <img src="https://github-readme-stats.vercel.app/api?username=atologistparth&show_icons=true&locale=en" alt="atologistparth's GitHub Stats" style="max-width: 48%;"/>
+    </p>
+    <p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atologistparth&" alt="GitHub Streak Stats" style="max-width: 48%;"/>
+    </p>
+</div>
+
 <img src="https://media4.giphy.com/media/KdrBO6kCgqKbJP6cr9/giphy.gif?cid=6c09b952qw6zd7wzhyffxbxyeyu9cxqbkr0ds1pifl778x36&ep=v1_stickers_related&rid=giphy.gif" style="margin-top: -36px; max-width: 100%; display: inline-block; height: 73px; width: 968px; border-radius: 20px;" />
